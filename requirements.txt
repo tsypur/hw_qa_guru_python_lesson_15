@@ -1,0 +1,6 @@
+allure-python-commons
+selenium
+pytest
+selene==2.0.0rc9
+allure-pytest
+python-dotenv
